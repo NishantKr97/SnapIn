@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\NISHANT\.android\build-cache\880cd4f342eb4272b2ed555ee2e84c53a8c1923a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\NISHANT\AndroidStudioProjects\Compressor\app\build\intermediates\pre-dexed\debug\classes_6176ec67bf8b7472e407798606e0fa05e0b2a4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NISHANT\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="C:\Users\NISHANT\AndroidStudioProjects\Compressor\app\build\intermediates\pre-dexed\debug\rxjava-2.1.0_93226278c1a1bdb1eac60e66eb87379a86426946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NISHANT\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\NISHANT\AndroidStudioProjects\Compressor\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_9c0ff6b85d4037b7fa0089e02bcdaba290a7b0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NISHANT\.android\build-cache\98b5709368e7c4bd187c1438b0ba5affca38ed04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7cca89b82118b140b5c012b0e0def2f35c81592">
+        <dex dex="C:\Users\NISHANT\AndroidStudioProjects\Compressor\app\build\intermediates\pre-dexed\debug\classes_8f831dfc0db2851319d6ee96e457d5d4e1c1e5a5.jar" />
+    </item>
+
+</items>
